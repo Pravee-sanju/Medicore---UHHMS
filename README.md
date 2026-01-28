@@ -40,9 +40,9 @@ Patient → Hospital → FHIR API → Unified Backend → Blockchain → AI → 
 ---
 
 ## Team
-- Team Name: RetroRoots
-- Lead: Swathmika S S
-- Members: Umamageshwari, Subhasini, Subetha, Sarvajit
+- Team Name: Tech fusion
+- Lead: Praveenasri R
+- Members: Ruddhara devi S, Nithish A,Rathish T
 - Cohort: 2024–28
 
 ---
