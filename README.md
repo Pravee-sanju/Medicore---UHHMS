@@ -18,8 +18,8 @@ MediCore provides a unified, secure platform to connect hospitals, laboratories,
 
 ## Tech Stack (Planned)
 - Frontend: HTML, CSS, JavaScript
-- Backend: Python (Flask/Django)
-- Database: PostgreSQL / MongoDB
+- Backend: Python (Flask)
+- Database: PostgreSQL
 - Standards: FHIR
 - Blockchain: Hyperledger / Ethereum
 - AI: NLP-based summarization
